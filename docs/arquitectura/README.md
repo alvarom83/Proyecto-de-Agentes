@@ -13,9 +13,9 @@
 | Secretos y claves | `secretos.md` | #2 |
 | Recorrido del usuario | `user-flow.md` | — |
 | Marca: identidad visual y tono | `marca.md` | — |
-| Integraciones con IA + techo de gasto *(si aplica)* | `integraciones-ia.md` | #3 |
-| Integraciones con otros sistemas *(si aplica)* | `integraciones.md` | #4 |
-| Autenticación y permisos *(si aplica)* | `auth-y-permisos.md` | — |
+| Integraciones con IA + techo de gasto | `integraciones-ia.md` | #3 |
+| Integraciones con otros sistemas | `integraciones.md` | #4, #6, #7, #8 |
+| Autenticación y permisos | *no aplica — este MVP no tiene ningún login de usuario: se configura directamente por el equipo, sin panel (PRD §5). Se crea si el producto suma un panel de administración más adelante.* | — |
 | Costo mensual estimado *(lo escribe `/costo`)* | `costos.md` | — |
 | Monitoreo de errores — Sentry *(si se instala, `/instalar-sentry`)* | `sentry.md` | — |
 | Analítica de producto — PostHog *(si se instala, `/instalar-posthog`)* | `posthog.md` | — |
